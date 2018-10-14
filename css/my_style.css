@@ -1,0 +1,69 @@
+body{
+    background-color: #ecebe8;
+}
+.form_login > div{
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 50px;
+    border: #c8c8c8 1px solid
+}
+.form_login_title{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    height: 50px;
+    padding-top: 10px
+}
+.form_login_body{
+    margin-top: 20px
+}
+.form_login_footer{
+    background-color: #f0f0f0
+}
+.form_login_footer > div > div > div:first-child{
+    margin-top: 50px
+}
+.form_login_footer > div > div > div:first-child > div{
+    text-align: center;
+}
+.form_login_footer > div > div > div:nth-child(2) > div:first-child input{
+    color: white;
+    background-color: blue;
+    width: 100%;
+    font-weight: bold;
+    border: none;
+    height: 48px;
+    border-radius: 5px
+}
+.form_login_footer > div > div > div:nth-child(2) > div:nth-child(2) input{
+    color: white;
+    background-color: skyblue;
+    width: 100%;
+    font-weight: bold;
+    border: none;
+    height: 48px;
+    border-radius: 5px
+}
+.form_login_footer > div > div > div:nth-child(2) > div:nth-child(3) input{
+    color: white;
+    background-color: #c3091f;
+    width: 100%;
+    font-weight: bold;
+    border: none;
+    height: 48px;
+    border-radius: 5px
+}
+.form_login_footer > div > div > div:nth-child(4){
+    margin-top: 10px;
+    text-align: center
+}
+.form_login_footer > div > div > div:nth-child(5) input{
+    background-color: green;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 20px
+}
